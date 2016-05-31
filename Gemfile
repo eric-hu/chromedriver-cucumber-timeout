@@ -38,6 +38,7 @@ group :development, :test do
   gem 'cucumber-rails', require: false
   gem 'chromedriver-helper'
   gem 'capybara-rails'
+  gem 'selenium-webdriver'
 end
 
 group :development do
